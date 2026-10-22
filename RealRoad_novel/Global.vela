@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "kind": "workspace",
+  "id": "19fd0fbd-1a12-4a60-9e22-784b37e7b502",
+  "project": {
+    "name": "Global",
+    "description": "",
+    "author": ""
+  },
+  "chapters": {
+    "templates": []
+  },
+  "editor": {},
+  "reading": {
+    "items": [],
+    "layout": {}
+  },
+  "formats": {
+    "latex": {
+      "engine": "xetex"
+    }
+  },
+  "reader": {},
+  "publishing": {},
+  "files": {}
+}
