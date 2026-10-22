@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "name": "人物.gly",
+  "entries": [
+    {
+      "id": "fcc280fc-4672-4ac2-a595-aaa387443d3c",
+      "term": "杜淼",
+      "definition": "副主角、C02",
+      "category": "人物",
+      "aliases": [
+        "独苗"
+      ]
+    },
+    {
+      "id": "69c54fa6-9036-4a60-9309-0146240fe156",
+      "term": "吴谓",
+      "definition": "主角、C01",
+      "category": "人物",
+      "aliases": [
+        "无所谓"
+      ]
+    }
+  ]
+}
